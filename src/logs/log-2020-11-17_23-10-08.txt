@@ -1,0 +1,5 @@
+File ico.ico: format is not supporting
+File logs: format is not supporting
+File main.py: format is not supporting
+File main.xml: format is not supporting
+File rtu: format is not supporting

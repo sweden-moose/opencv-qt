@@ -1,0 +1,1 @@
+File C:/Users/Arduino/PycharmProjects/opencv-qt/test_files/justmark.jpg: format is not supporting
